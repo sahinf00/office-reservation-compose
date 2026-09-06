@@ -1,0 +1,3 @@
+[submodule "reservation-server"]
+	path = reservation-server
+	url = https://github.com/sahinf00/office-reservation-server.git
